@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ProfitMaxforCloudBrokersinCloudComputing"
+  id="myeclipse.1534997698624"
+  context-root="/ProfitMaxforCloudBrokersinCloudComputing"
+  j2ee-spec="5.0"
+  archive="ProfitMaxforCloudBrokersinCloudComputing.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
